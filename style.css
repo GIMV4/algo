@@ -47,3 +47,12 @@ a{
     padding: 10px 0;
     text-align: center;
 }
+.check ~ .lista{
+    display: block;
+}
+#menu{
+    display:none;
+}
+.item{
+    padding: 12px 0;
+}
