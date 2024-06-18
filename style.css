@@ -41,6 +41,6 @@ a{
 .lista{
     display: none;
     position: absolute;
-    top:100%
+    top:100%;
     background-color:#D9D9D9;
 }
