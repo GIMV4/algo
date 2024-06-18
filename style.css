@@ -35,6 +35,12 @@ footer{
     width:50px;
 }
 a{
-    color: white;
+    color: black;
     text-decoration: none;
+}
+.lista{
+    display: none;
+    position: absolute;
+    top:100%
+    background-color:#D9D9D9;
 }
