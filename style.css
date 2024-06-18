@@ -8,6 +8,9 @@ header{
     text-align: center;
     padding: 20px;
     background-color: white;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
 }
 footer{
     background-color: black;
