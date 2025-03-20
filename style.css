@@ -5,12 +5,16 @@ body{
     padding-right: 40px;
     
 header { 
-display: flex; 
-width: 100%; 
-background-color: white; 
-padding: 1rem; 
-position: relative; 
-justify-content: center; 
+    display: flex;
+    width: 100%;
+    background-color: white;
+    padding: 1rem;
+    position: relative;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    align-items: center;
 } 
 footer{
     background-color: black;
