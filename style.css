@@ -72,8 +72,5 @@ ul li{
 .botaoChato{
     position: relative;
     right: 0px;
-    left: 40px;
-}
-#vaiLeft{
     left: 10rem;
 }
