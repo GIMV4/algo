@@ -7,7 +7,7 @@ body{
 header { 
 display: flex; 
 width: 100%; 
-background-color: var(--marinho); 
+background-color: white; 
 padding: 1rem; 
 position: relative; 
 justify-content: center; 
