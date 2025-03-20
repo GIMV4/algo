@@ -4,14 +4,14 @@ body{
     padding-left: 40px;
     padding-right: 40px;
     
-header{
-    text-align: center;
-    padding: 20px;
-    background-color: white;
-    display: flex;
-    justify-content: space-around;
-    position: relative;
-}
+header { 
+display: flex; 
+width: 100%; 
+background-color: var(--marinho); 
+padding: 1rem; 
+position: relative; 
+justify-content: center; 
+} 
 footer{
     background-color: black;
     color: white;
