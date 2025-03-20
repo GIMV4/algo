@@ -65,3 +65,12 @@ ul li{
     color:white;
     text-align: right;
 }
+.botao-disciplinas { 
+    cursor: pointer; 
+    font-size: 2rem; 
+    background: none; 
+    background-color:rgb(92, 74, 255); 
+    border: none; 
+    padding: 1.05rem 1.5rem; 
+    color: white);
+}
