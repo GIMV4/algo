@@ -71,4 +71,6 @@ ul li{
 }
 .botaoChato{
     position: relative;
+    right: 0px;
+    left: 40px;
 }
