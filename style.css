@@ -55,20 +55,9 @@ a{
 .check ~ .lista{
     display: block;
 }
-#menu{
-    display:none;
+
 }
-.item{
-    padding: 12px 0;
-}
-ul li{
-    list-style: none;
-}
-#bo{
-    background-color: rgb(0, 0, 0);
-    color:white;
-    text-align: right;
-}
+
 .botaoChato{
     position: relative;
     right: 0px;
