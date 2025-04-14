@@ -59,8 +59,8 @@ a{
 
 }
 
-.botaoChato{
-    position: relative;
-    right: 0px;
-    left: 18rem;
+.Opcao{
+    color: black;
+    background-color: rgb(147, 212, 241) ;
+    text-decoration: none;  
 }
