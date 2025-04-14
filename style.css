@@ -24,9 +24,7 @@ footer{
     padding-top: 60px;
     padding-bottom: 60px;
 }
-h1,p{
-  width: 15px;  
-}
+
 @media screen and (min-width: 1024){
     .intro{
         display: flex;
