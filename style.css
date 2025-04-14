@@ -53,9 +53,6 @@ footer{
 .check ~ .lista{
     display: block;
 }
-
-}
-
 .Opcao{
     color: black;
     background-color: rgb(147, 212, 241) ;
@@ -65,3 +62,5 @@ footer{
     color: black;
     text-decoration: none;
 }
+}
+
