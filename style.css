@@ -1,13 +1,13 @@
 
 body{
-    background-color: #D9D9D9;
-    padding-left: 40px;
-    padding-right: 40px;
+    background-color: #ffffff;
+    padding-left: 60px;
+    padding-right: 60px;
     
 header { 
     display: flex;
     width: 100%;
-    background-color: white;
+    background-color: rgb(147, 212, 241);
     padding: 1rem;
     position: relative;
     justify-content: space-around;
@@ -21,8 +21,8 @@ footer{
     color: white;
     padding-left: 100px;
     padding-right: 100px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 @media screen and (min-width: 1024){
     .intro{
