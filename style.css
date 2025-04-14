@@ -40,10 +40,7 @@ footer{
 #Lmenu{
     width:50px;
 }
-a{
-    color: black;
-    text-decoration: none;
-}
+
 .lista{
     display: none;
     position: absolute;
