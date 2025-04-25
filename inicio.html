@@ -1,0 +1,120 @@
+html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portal Acadêmico</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    nav {
+      display: flex;
+      gap: 15px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+
+    section {
+      background-color: white;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    section h2 {
+      color: #004080;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+
+    footer {
+      background-color: #004080;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div><strong>Portal Acadêmico</strong></div>
+    <nav>
+      <a href="#disciplinas">Disciplinas</a>
+      <a href="https://example.com" target="_blank">Site Externo</a>
+    </nav>
+  </header>
+
+  <main id="disciplinas">
+    <section>
+      <h2>Matemática</h2>
+      <ul>
+        <li>Prova 1: Álgebra</li>
+        <li>Relatório: Geometria Espacial</li>
+        <li>Trabalho: Estatística</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>História</h2>
+      <ul>
+        <li>Prova: Revolução Francesa</li>
+        <li>Relatório: Era Vargas</li>
+        <li>Trabalho: Brasil Colônia</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Biologia</h2>
+      <ul>
+        <li>Prova: Genética</li>
+        <li>Relatório: Ecossistemas</li>
+        <li>Trabalho: Células e Tecidos</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Portal Acadêmico - Desenvolvido por [Seu Nome]</p>
+    <p>Contato: portal@exemplo.com</p>
+  </footer>
+</body>
+</html>
